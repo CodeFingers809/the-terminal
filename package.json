@@ -1,0 +1,17 @@
+{
+  "name": "theterminal",
+  "version": "1.0.0",
+  "description": "A terminal website",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "Ayush",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^13.0.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
